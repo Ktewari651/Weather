@@ -1,0 +1,25 @@
+.Header {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 49px; /* Padding around the content */
+    text-align: center; /* Center-align the text */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Drop shadow */
+    font-family: 'Arial', sans-serif; /* Font family */
+    font-size: 28px; /* Font size */
+    text-transform: uppercase; /* Uppercase text */
+    letter-spacing: 2px; /* Letter spacing */
+  }
+  
+  
+
+
+.Text{
+    height: 20px;
+}
+
+.search{
+    float: right;
+    margin-right: 46px;
+    padding: 11px;
+}
